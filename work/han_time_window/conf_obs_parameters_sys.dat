@@ -1,0 +1,7 @@
+observatory_lat = 40:23:45.36 # Xinglong
+observatory_lon = 117:34:28.35 # Xinglong
+observatory_elevation = 930 # Xinglong
+zenith_sun_min = 100 # night time when sun zenith > 100
+zenith_min = 67.5  #set observable constrains
+gal_min = 20  #set observable constrains
+moon_dis_min_para = 0-0.5:30|0.5-0.75:35|0.75-1.0:40  # if (lunar.moon_phase > 0.5 ) moon_dis_min = 40.0, else moon_dis_min = 30.0 
